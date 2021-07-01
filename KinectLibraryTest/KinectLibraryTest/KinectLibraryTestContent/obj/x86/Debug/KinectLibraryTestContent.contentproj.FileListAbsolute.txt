@@ -1,0 +1,3 @@
+C:\Users\Peter\Dropbox\Code\KinectLibraryTest\KinectLibraryTest\KinectLibraryTestContent\obj\x86\Debug\KinectLibraryTestContent.contentprojResolveAssemblyReference.cache
+C:\Users\Assassian360\Dropbox\Dropbox\Code\KinectLibraryTest\KinectLibraryTest\KinectLibraryTestContent\obj\x86\Debug\KinectLibraryTestContent.contentprojResolveAssemblyReference.cache
+F:\Dropbox\Code\KinectLibraryTest\KinectLibraryTest\KinectLibraryTestContent\obj\x86\Debug\KinectLibraryTestContent.contentprojResolveAssemblyReference.cache
